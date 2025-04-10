@@ -1,1 +1,1 @@
-# SistemColegio
+# SistemaColegio
